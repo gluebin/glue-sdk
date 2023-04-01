@@ -1,4 +1,4 @@
-module gluebin.com/glue-sdk
+module github.com/gluebin/glue-sdk
 
 go 1.20
 

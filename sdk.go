@@ -1,4 +1,4 @@
-package glue
+package sdk
 
 import (
 	"net/http"
